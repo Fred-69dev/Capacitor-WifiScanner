@@ -19,10 +19,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fred-69dev/indoorNavNew.git.git"
+    "url": "git+https://github.com/Fred-69dev/Capacitor-WifiScanner.git"
   },
   "bugs": {
-    "url": "https://github.com/Fred-69dev/indoorNavNew.git/issues"
+    "url": "https://github.com/Fred-69dev/Capacitor-WifiScanner/issues"
   },
   "keywords": [
     "capacitor",
